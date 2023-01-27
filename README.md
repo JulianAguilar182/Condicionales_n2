@@ -7,4 +7,4 @@ En este repositorio encontraremos 10 scripts, correspondientes a cada uno de los
 Se anexa:
 - Archivo .ZIP con los 10 scripts.
 - Imagen .png de el taller anteriormente mencionado.
-- Archivo .txt con el URL de la explicacion de cada script y punto de el taller, en la plataforma "YouTube".
+- Archivo .txt con el URL de la explicacion de los scripts y puntos de el taller del 4 al 10, en la plataforma "YouTube".
